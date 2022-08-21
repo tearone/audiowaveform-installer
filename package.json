@@ -1,0 +1,12 @@
+{
+  "name": "audiowaveform-installer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tearone/audiowaveform-installer",
+  "author": "55nknown",
+  "license": "MIT",
+  "devDependencies": {
+    "tsd": "^0.22.0",
+    "typescript": "^4.7.4"
+  }
+}
