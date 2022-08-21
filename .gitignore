@@ -3,6 +3,5 @@
 node_modules
 *.tgz
 .npmrc
-types/**/*.d.ts
 /**/.DS_Store
 .env

@@ -2,6 +2,7 @@
   "name": "audiowaveform-installer",
   "version": "1.0.0",
   "main": "index.js",
+  "types": "types/index.d.ts",
   "repository": "https://github.com/tearone/audiowaveform-installer",
   "author": "55nknown",
   "license": "MIT",

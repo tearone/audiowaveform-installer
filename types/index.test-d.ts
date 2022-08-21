@@ -1,4 +1,4 @@
 import {expectType} from 'tsd';
-import { url } from '.';
+import { path } from '.';
 
 expectType<string>(path);
