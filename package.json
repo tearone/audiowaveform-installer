@@ -1,5 +1,5 @@
 {
-  "name": "audiowaveform-installer",
+  "name": "@audiowaveform-installer/audiowaveform",
   "version": "1.0.0",
   "main": "index.js",
   "types": "types/index.d.ts",
@@ -9,5 +9,9 @@
   "devDependencies": {
     "tsd": "^0.22.0",
     "typescript": "^4.7.4"
+  },
+  "optionalDependencies": {
+    "@audiowaveform-installer/linux-x64": "1.6.0",
+    "@audiowaveform-installer/win32-x64": "1.6.0"
   }
 }

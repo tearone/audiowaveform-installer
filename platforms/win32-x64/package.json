@@ -1,0 +1,12 @@
+{
+  "name": "@audiowaveform-installer/win32-x64",
+  "version": "1.6.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "author": "55nknown",
+  "license": "MIT"
+}
