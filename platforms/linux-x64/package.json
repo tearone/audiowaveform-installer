@@ -1,6 +1,6 @@
 {
   "name": "@audiowaveform-installer/linux-x64",
-  "version": "1.6.0-1",
+  "version": "1.6.0-2",
   "scripts": {
     "postinstall": "chmod u+x audiowaveform"
   },
