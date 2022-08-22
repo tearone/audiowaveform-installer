@@ -1,6 +1,6 @@
 {
   "name": "@audiowaveform-installer/audiowaveform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "types": "types/index.d.ts",
   "repository": "https://github.com/tearone/audiowaveform-installer",
