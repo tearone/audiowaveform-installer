@@ -11,7 +11,7 @@
     "typescript": "^4.7.4"
   },
   "optionalDependencies": {
-    "@audiowaveform-installer/linux-x64": "1.6.0",
+    "@audiowaveform-installer/linux-x64": "1.6.0-1",
     "@audiowaveform-installer/win32-x64": "1.6.0"
   }
 }
