@@ -1,6 +1,6 @@
 {
   "name": "@audiowaveform-installer/audiowaveform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "types": "types/index.d.ts",
   "repository": "https://github.com/tearone/audiowaveform-installer",
@@ -12,6 +12,7 @@
   },
   "optionalDependencies": {
     "@audiowaveform-installer/linux-x64": "1.6.0-2",
-    "@audiowaveform-installer/win32-x64": "1.6.0"
+    "@audiowaveform-installer/win32-x64": "1.6.0",
+    "@audiowaveform-installer/darwin-arm64": "1.6.0"
   }
 }
